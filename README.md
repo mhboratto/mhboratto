@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhboratto
 - 👀 I’m interested in Data Science
-- 🌱 I am currently transferring my Science knowledge to Data Science by learning Python and practicing data analysis, dashboard visualization, machine learning, etc...
+- 🌱 I am currently transferring my Materials Science knowledge to Data Science by learning Python and practicing data analysis, dashboard visualization, machine learning, etc...
 
 
 <!---
